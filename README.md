@@ -1,2 +1,2 @@
-c for cyan\n
+c for cyan\
 f for FLESH
